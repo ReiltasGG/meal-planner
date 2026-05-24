@@ -1,0 +1,8 @@
+.env
+*.pdf
+*.txt
+venv/
+venv/
+*.pdf
+*.txt
+.env
